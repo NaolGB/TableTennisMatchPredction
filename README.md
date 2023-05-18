@@ -1,8 +1,7 @@
 # TableTennisMatchPredction
+
 ## Data Preparation
-
-Create a folder named 'data' in the project and download the datasets from the Duke Box link in it. https://duke.box.com/s/26mitqjngbj1jefvigson4vuykm6trxe
-
+Download the data folder in the following box link https://duke.box.com/s/4c98ud6294k60ynixlwjgylc5jlm5sp2 (and extract it) and put it in the root folder of this project to run the scripts.
 
 ## Methods
 Run `ml.ipynb` for both decesion tree models and neural network models  
